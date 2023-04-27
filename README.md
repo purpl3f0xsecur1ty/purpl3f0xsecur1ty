@@ -1,16 +1,16 @@
-### Hi there 👋
+<div style="background-color: #000000;">
+<div align="center">
+<div>
+  <h1> Purpl3F0x </h1>
+  </div>  
+  <img src="Network-Kyuubi.png" width="320px" height="320px" />
+<div>
+  
+</div>
+</div>
 
-<!--
-**purpl3f0xsecur1ty/purpl3f0xsecur1ty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+## Sites
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| **Blog** | https://www.purpl3f0xsecur1ty.tech/ |
