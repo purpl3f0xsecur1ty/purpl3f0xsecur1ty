@@ -2,14 +2,14 @@
   
   # Purpl3F0xSecur1ty
   <img src="Network-Kyuubi.png" height="320px" />
-  
-=====@@@@@=====  
+
+```python
 🖥️ Hacker 🖥️  
 📱 Android Malware Analyst 📱  
 🔐 Senior Security Consultant 🔐  
 ✈️ USAF Veteran ✈️  
 🦊 Fox 🦊  
-=====@@@@@=====  
+```
   
 ## Sites
 |   **Blog**  | https://www.purpl3f0xsecur1ty.tech/ |
