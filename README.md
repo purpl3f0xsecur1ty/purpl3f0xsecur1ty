@@ -6,7 +6,7 @@
 ```python
 🖥️ Hacker 🖥️  
 📱 Android Malware Analyst 📱  
-🔐 Senior Security Consultant 🔐  
+🔐 Information Security Consultant 🔐  
 ✈️ USAF Veteran ✈️  
 🦊 Fox 🦊  
 ```
